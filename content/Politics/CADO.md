@@ -1,0 +1,1 @@
+The Collective Action Defense Organization (CADO) is a security organization founded in 2029 by the [[Rosen Commonwealth]], country, country, country, and country. 

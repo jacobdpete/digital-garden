@@ -1,0 +1,1 @@
+The First Rosen Civil War was a conflict in the former [[Rosen Federal Union]] from 4 October 1858 to 12 May 1871 (12 years, 7 months and 8 days) between three major factions: the [[Rosen Restorationist Front|Reds]], the [[Rosen People's Front|Socialists]], and the [[Ayan Confederalist Front|Confederalists]].

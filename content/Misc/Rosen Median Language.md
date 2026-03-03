@@ -1,0 +1,2 @@
+Rosen Median Language, or RML, is a neography spoken in the [[Rosen Commonwealth]]. Devised in 2003 by Teodoro Vidal, Mariane Yamada-Pedroso, and Larissa Delgado, it works as an intermediary working language in the Commonwealth.
+Based primarily on Sennan, Hanan, and Velese, it is spoken widely within the federal government, and especially the senate, where its use is compulsory. As the Commonwealth is ethno-linguistically diverse, RML was created to "bridge the gap" between speakers of different languages.

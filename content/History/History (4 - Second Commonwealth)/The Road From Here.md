@@ -1,0 +1,22 @@
+This document serves as a vague timeline of future Rosen history.
+
+- 2055: Secretary-General Roberto Araújo-Thomasson is found guilty on nine criminal counts, including sexual abuse, sexual assault, extortion, conspiracy, and misconduct within the Secretariat. His directory is forced to resign, triggering the first special elections since the resignation of Verena Miete in 2053.
+- Early 2056: The Yoshinaga National Fusion Facility is decommissioned, ending its nineteen year run as the first commercially operable fusion reactor.
+- Late 2056: The [[Ayan People's Action Party]]'s headquarters is discovered in Szcezębie. The organization dissolves in December.
+- 2057: Genziano Noce dies from pancreatic cancer. His wife, Alma, dies in a train derailment the next year.
+- Early 2058: The Orange Revolution begins in [[Saya]]. The revolution lasts well into 2061, and an estimated 90,000 people die as a result of riots, anarchy, and violence.
+- Mid-2058: Sayan revolutionaries seize a nuclear warhead in transit and detonate it in Avigneux. It is the first offensive nuclear explosion since 1989.
+- 2059: Phase five of [[Libertas Lunar Base]] is completed. The colony now posses a fusion reactor, new quarries, and a hotel.
+- 2060: Rosen Aerospacelines (RASL) is founded as a subsidiary of Rosen Commonwealth Airways. It becomes the first truly accessible space tourism service in the world.
+- 2061: IPEMS, an [[International Union]] peacekeeping force, the first since the aftermath of the [[Nuclear Crisis]], is assembled to restore order in the State of Saya. A provisional authority, led primarily by the Rosen Commonwealth, supervises the country's transition to democracy.
+- Early 2062: The [[West Ayan Republic]] withdraws from the Nuclear Weapons Reduction Treaty. The country reports it possesses 4,531 operable nuclear warheads, with thousands more in storage.
+- Mid-2062: The Rosen Commonwealth resumes production of nuclear weapons, and initiates a nuclear weapons sharing program with CADO. The ONWMD (Office of Nonproliferation of Weapons of Mass Destruction) is reorganized as the Office of Nuclear Weapons.
+- 2063: Pioneered by the Addison Holt Directory, the Economic Reform Amendment is passed with a two-thirds majority in the Senate. It becomes the first amendment to the Rosen Constitution, ever.
+- Early 2064: David Lafaille becomes president of the State of Saya in the country's first ever fully democratic and representative election.
+- Mid-2064: The first nuclear fusion reactor enters commercial operation in The Arawad. 
+- Late 2064: The population of the world reaches 9 billion. The global population stagnates heavily for the next several decades until widespread space colonization begins in the early 2100s.
+- 2065: The State of Saya defaults on its loans with West Aya. Its economy enters a crisis that goes on for decades.
+- 2066: Border skirmishes between the State of Saya and the West Ayan Republic begin. War is declared in August of the same year.
+- Early 2067: David Lafaille is assassinated. He is replaced by Emmanuel Duverger, a purported former collaborator with APAP.
+- Mid-2067: Duverger withdraws from the Rosen-Sayan Nuclear Arms Treaty, once more allowing the production and deployment of new Sayan nuclear weapons.
+- 2068: 

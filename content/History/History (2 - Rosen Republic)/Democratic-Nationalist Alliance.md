@@ -1,0 +1,3 @@
+The Democratic-Nationalist Alliance (DNA) was a military group during the [[Second Rosen Civil War]] composed primarily of liberals, democrats, republicans, nationalists, and Sennan supremacists. The alliance, like most political groups during the Civil War, was highly disorganized and suffered from logistical problems over the course of the war. 
+After the [[Socialist Party]], the Alliance's primary opponent, proclaimed the [[Transitory Commonwealth]] and had effectively won the war, its leaders signed the Treaty of Navarro, which dissolved the Alliance.
+During the organization of the [[Second Rosen Commonwealth]], disillusioned nationalist leaders formed the [[Ayan People's Action Party]] (APAP), which now operates as a terrorist group in the Northern Republics.

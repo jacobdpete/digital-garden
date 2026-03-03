@@ -1,0 +1,1 @@
+The International Union (IU) is an intergovernmental organization between [[Avaya|Avayan]] countries. Founded in 1915, after the end of the World War, the IU was founded to prevent another global conflict and aid in international collaboration and peacekeeping.
