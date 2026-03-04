@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"b858b3ae291646ff","type":"text","text":"First [[Rosen Republic]]\n(1871-1921)","x":-125,"y":-780,"width":345,"height":100},
+		{"id":"643a8f2f5e18911c","type":"text","text":"Naval Interregnum - Military junta\n(1921-1928)","x":-125,"y":-940,"width":345,"height":100},
+		{"id":"506d49e3a2a9330e","type":"text","text":"Second Rosen Republic\n(1928-1964)","x":-125,"y":-1100,"width":345,"height":100},
+		{"id":"fe650d6bf5b7d00b","type":"text","text":"Third Rosen Republic\n(1965-1976)","x":-125,"y":-1380,"width":345,"height":100},
+		{"id":"831fbbceae14c247","type":"text","text":"[[Kuligites|Kuligite Restoration]]\n(1965)","x":-77,"y":-1220,"width":250,"height":60},
+		{"id":"0df09f8038598eb6","type":"text","text":"[[Second Rosen Civil War]]\n(1976-1983)","x":-91,"y":-1500,"width":277,"height":60},
+		{"id":"735ebae7da1dc852","type":"text","text":"[[Nuclear Crisis]]\n(1989)","x":-77,"y":-1780,"width":250,"height":60},
+		{"id":"16bfb5bfeb816a50","type":"text","text":"[[First Rosen Commonwealth]]\n(1983-1989)","x":-125,"y":-1660,"width":345,"height":100},
+		{"id":"cd47f9d9190a0a2e","type":"text","text":"[[Rosen Federal Union]] - First System\n(1792-1829)","x":-124,"y":-340,"width":345,"height":100},
+		{"id":"b82a6002bdfc851b","type":"text","text":"Winter Revolution (1792)","x":-77,"y":-180,"width":250,"height":60},
+		{"id":"54375d2709a4b86e","type":"text","text":"United East Ayan  Protectorates - Colonized by Sayan Empire\n(1606-1792)","x":-124,"y":-60,"width":345,"height":90},
+		{"id":"5bc98213845a6e3e","type":"text","text":"Rosen Federal Union - Second System\n(1829-1858)","x":-124,"y":-500,"width":345,"height":100},
+		{"id":"5b66544ec042da09","type":"text","text":"First Rosen Civil War\n(1858-1871)","x":-77,"y":-620,"width":250,"height":60},
+		{"id":"9cfb863c35a206c0","type":"text","text":"[[Second Rosen Commonwealth]]\n(1991-2053)","x":-125,"y":-2060,"width":345,"height":100},
+		{"id":"cca18587f880e87b","type":"text","text":"[[Transitory Commonwealth]]\n(1989-1991)","x":-101,"y":-1900,"width":297,"height":60}
+	],
+	"edges":[
+		{"id":"2116e0c4b4e74c5d","fromNode":"54375d2709a4b86e","fromSide":"top","toNode":"b82a6002bdfc851b","toSide":"bottom"},
+		{"id":"63c03d8e2edbffe1","fromNode":"b82a6002bdfc851b","fromSide":"top","toNode":"cd47f9d9190a0a2e","toSide":"bottom"},
+		{"id":"0ab1c102cfd8036c","fromNode":"cd47f9d9190a0a2e","fromSide":"top","toNode":"5bc98213845a6e3e","toSide":"bottom"},
+		{"id":"8be9bcb33722adf9","fromNode":"5bc98213845a6e3e","fromSide":"top","toNode":"5b66544ec042da09","toSide":"bottom"},
+		{"id":"0e514b7d38ef1b51","fromNode":"5b66544ec042da09","fromSide":"top","toNode":"b858b3ae291646ff","toSide":"bottom"},
+		{"id":"5888ae6d3b7ed35a","fromNode":"b858b3ae291646ff","fromSide":"top","toNode":"643a8f2f5e18911c","toSide":"bottom"},
+		{"id":"093a0e34c662e9a5","fromNode":"643a8f2f5e18911c","fromSide":"top","toNode":"506d49e3a2a9330e","toSide":"bottom"},
+		{"id":"d27d6914ec7b672e","fromNode":"506d49e3a2a9330e","fromSide":"top","toNode":"831fbbceae14c247","toSide":"bottom"},
+		{"id":"f4c15d86d77c880e","fromNode":"831fbbceae14c247","fromSide":"top","toNode":"fe650d6bf5b7d00b","toSide":"bottom"},
+		{"id":"4bad1f024dbcd3e0","fromNode":"fe650d6bf5b7d00b","fromSide":"top","toNode":"0df09f8038598eb6","toSide":"bottom"},
+		{"id":"d2bad5fb70b7f4d2","fromNode":"16bfb5bfeb816a50","fromSide":"top","toNode":"735ebae7da1dc852","toSide":"bottom"},
+		{"id":"4977d48687104442","fromNode":"0df09f8038598eb6","fromSide":"top","toNode":"16bfb5bfeb816a50","toSide":"bottom"},
+		{"id":"05820357ae02e93d","fromNode":"735ebae7da1dc852","fromSide":"top","toNode":"cca18587f880e87b","toSide":"bottom"},
+		{"id":"62e499b6951be3a5","fromNode":"cca18587f880e87b","fromSide":"top","toNode":"9cfb863c35a206c0","toSide":"bottom"}
+	]
+}

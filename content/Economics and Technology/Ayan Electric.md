@@ -1,0 +1,1 @@
+Ayan Electric, officially the Ayan Industrial Electronics Company, and abbreviated as AE, is a private corporation in the [[Rosen Commonwealth]].

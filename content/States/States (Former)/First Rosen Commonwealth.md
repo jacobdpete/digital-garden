@@ -1,0 +1,4 @@
+---
+dg-publish: true
+---
+The First Rosen Commonwealth refers to the iteration of the [[Rosen Commonwealth]] established at the end of the [[Second Rosen Civil War]] and the signing of the First Commonwealth Constitution in June 1982. The First Rosen Commonwealth was disorganized, poor, and unstable, which catalyzed the devastation of the [[Nuclear Crisis]] that caused its end. To continue its existence, many of the "reformers" in the [[Socialist Party]] convened as the “[[Transitory Commonwealth]]" and devised the Second Commonwealth Constitution, which established the current [[Second Rosen Commonwealth]].

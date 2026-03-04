@@ -1,0 +1,1 @@
+The São Lola Treaty Organization, or the SLTO, was an intergovernmental military alliance established during the [[Cold War]] by the [[Rosen Republic]]. Its primary goal was to counter the influence of the [[Sayan Union]] and its defensive organization, the [[Montuon Pact]]. 

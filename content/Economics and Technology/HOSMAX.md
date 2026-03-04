@@ -1,0 +1,4 @@
+The Hosse-Maximillian Petrochemical Corporation, often shortened to HOSMAX or HMPC, is a semi-private corporation in the [[Rosen Commonwealth]] that specializes in the extraction and refinement of crude oil and natural gas.
+HOSMAX is one of the largest private corporations in the Rosen Commonwealth and is its highest-valued when accounting for its autonomous subsidiaries.
+HOSMAX is overseen by the Commonwealth Oil Agency, which effectively maintains a government monopoly on oil extraction, refinement, and transportation.
+The company became well-known after the [[Nuclear Crisis]], as HOSMAX tankers were a central target of harassment from [[ICOSGEA]] forces in the weeks leading up to the war.

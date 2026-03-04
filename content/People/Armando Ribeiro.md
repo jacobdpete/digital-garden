@@ -1,0 +1,1 @@
+Armando Medina Rebeiro was a Sennan general and statesman in the [[First Rosen Civil War]] and the early [[Rosen Republic]]. 
