@@ -1,1 +1,0 @@
-Saya, officially the State of Saya, is a country in (). Its capital and principal financial center is Avigneux. 

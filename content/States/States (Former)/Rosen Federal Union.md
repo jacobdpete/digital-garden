@@ -1,1 +1,0 @@
-The Rosen Federal Union was a state in East Aya from 1792-1858. It was established after the Winter Revolution expelled Sayan colonists from East Aya and lasted until the First Rosen Civil War. Its legal successor was the [[Rosen Republic]], which was declared after the [[Concordance of São Lola]].

@@ -1,1 +1,0 @@
-The Concordance of São Lola, sometimes called the São Lola Treaty, was an agreement between [[Rosen People's Front|Socialist]], [[Rosen Restorationist Front|Red]], and [[Ayan Confederalist Front|Confederalist]] forces that ended the Rosen Civil War and set the stage for the establishment of the [[Rosen Republic]].

@@ -1,2 +1,0 @@
-Olgierd Matos Trela (January 19th, 1924 - March 3rd, 2014) was the first Secretary-General of the [[Rosen Commonwealth]], serving from 1990 to 1998. During the [[Second Rosen Civil War]], she served as a three-star admiral in the Rosen Socialist Navy, before overseeing the [[Transitory Commonwealth]]. She is considered by historians one of the most influential people in Rosen history, despite the fact that she did not sign the [[Constitution of the Second Rosen Commonwealth|Second Constitution]].
-

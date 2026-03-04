@@ -1,2 +1,0 @@
-Libertas Lunar Base is a lunar settlement and extraterrestrial industrial complex owned and operated by the Rosen Commonwealth Aerospace Research Agency ([[ROCARA]]) on [[Luna]], [[Avaya]]'s only moon.
-Construction of phase 1 of the project began in 2032. Following the establishment of permanent residency in 2041, the base was expanded significantly under phases 2 and 3 with more funding per the Lunar Colonization Act. Now, the base houses 120 permanent staff and regularly extracts and processes ice, helium-3, and nickel from the Lunar surface.

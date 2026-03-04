@@ -1,7 +1,0 @@
-ARC, officially the Ayan Rail Corporation, is the largest railroad company in the [[Rosen Commonwealth]] and the busiest rail system in the world. Operating a government-backed near-monopoly on passenger and cargo rail transportation in the Commonwealth, ARC is one of the world’s largest companies and accounts for almost all rail transport in the country.
-ARC operates as a private corporation nominally, but the federal government exerts a significant amount of influence on the company. About 30% of the company is owned by the [[Republic|republics]], which ARC devolves rail service management to. ARC also works closely with the Department of Transport and Tourism (DTT) to meet government goals and quotas regarding rail transportation.
-As one of the largest corporations in the Rosen Commonwealth, ARC is vested with the responsibility of moving millions every day. Since few in the country own cars, ARC has services in every major city and small town.
-Like the majority of technology in the Rosen Commonwealth, ARC operates a variety of different trainsets...
-
-# History
-The Ayan Rail Corporation was established by the Department of Transport and Tourism under Andreyev Stepanovich in 2004. Inheriting much of the remaining rail infrastructure following the [[Nuclear Crisis]], ARC was then owned entirely by the DTT and did not run any trains in revenue service until 2008. The first lines opened in the [[São Cedillo]] metropolitan area in May 2008, using primarily West Ayan-made diesel multiple unit (DMU) trains.

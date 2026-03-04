@@ -1,2 +1,0 @@
-The Socialist Party, officially the Worker's Socialist Party of the Rosen Commonwealth (WSPRC) was the ruling party in the [[First Rosen Commonwealth]] and ran the country as a one-party state. The party suffered from debilitating internal conflicts and is often regarded as a primary reason for the First Commonwealth's collapse.
-The WSPRC was a primary motivation for [[ICOSGEA]]'s formation, as the countries in West Aya believed the Commonwealth would start a new series of interventionist conflicts under the Party's rule.

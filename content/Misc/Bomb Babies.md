@@ -1,5 +1,0 @@
-*Bomb Babies*. That’s what they called themselves. The children of nuclear armageddon, born between 1985 and 1995.
-They witnessed firsthand the death of consumer society and the birth of the new world. In the blinding optimism of the Rosen Commonwealth’s seventieth anniversary, they called themselves the trailblazers. The heirs to the post-crisis world.
-They tended to prefer the humanities. Poetry, literature, politics. Maybe it was something about the evil of science. The way it turned on man and ended what the Bomb Babies never got to know. 
-There were many prolific bomb babies—after all, the old world was dying fast and *someone* had to take those geezers’ place. Many became the landmark politicians, artists, and influencers of the 21st century.
-Our time belongs to them. May they tend the new world well. 

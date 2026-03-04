@@ -1,3 +1,0 @@
-- 1603: Admiral Amand Lussier makes landfall in East Aya, becoming the first Sayan to step foot on the continet. He establishes the colony of New Avetoix, beginning the record of foreign settlement in East Aya.
-- 1605: The Sayan Empire, in the midst of a brutal war of attrition with the Kingdom of Andolina, purchases New Avetoix and grant charters for resource extraction in East Aya.
-- 1633: The population in the New Avetoix region reaches 10,000. 

@@ -1,1 +1,0 @@
-The West Ayan Republic is a country in West Aya. With a population of 873 million, it is the most populous country in the world. As a confederation of semi-autonomous states, the 

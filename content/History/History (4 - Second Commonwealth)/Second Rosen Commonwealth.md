@@ -1,1 +1,0 @@
-The Second Rosen Commonwealth, usually known simply as the [[Rosen Commonwealth]], is the current iteration of Rosen government in East Aya. It was established after the collapse of the [[First Rosen Commonwealth]] following the [[Nuclear Crisis]]. 

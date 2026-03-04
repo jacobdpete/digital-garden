@@ -1,1 +1,0 @@
-Praianism is a monotheistic religion which states that Demeia was a divine apparition of God and will redeem faithful Praians at Armageddon. The largest denomination of Praianism is [[Demei]], followed by Ordinated Praianism and Reformed Praianism.

@@ -1,2 +1,0 @@
-The Ayan People's Action Party (APAP) is a right-wing nationalist political organization and terrorist group in the [[Rosen Commonwealth]]. It advocates for a return to the form of economics and government common under the [[Rosen Republic|Republican]] era. 
-APAP received a degree of infamy after the 2029 Bełnowiec Gas Attacks, in which 53 people died. The organization is believed to be led by Evandro Vladislav-Mantovani since 2041. 

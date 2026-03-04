@@ -1,2 +1,0 @@
-São Cedillo is the capital and largest city in the [[Rosen Commonwealth]]. At the southern tip of the Sasei Republic, it is the most populous city in the southern hemisphere. São Cedillo comprises eighteen Districts within the São Cedillo Municipality, which is coextensive with the City of São Cedillo.
-São Cedillo is a global center of finance, commerce, culture, and entertainment. The Secretariat of the [[International Union]] is based in São Cedillo, making the city a center of international diplomacy.
