@@ -1,3 +1,8 @@
+> [!note]
+> Most of this document has been deprecated in some way, and I wouldn't take this particular note very seriously. This was a foundational document from the early days of Avaya's conception, and it is left here in some kind of archived state.
+> 
+> tl;dr, ignore this.
+
 # 1: The Second Commonwealth Constitution
 ## 1.1: Background
 The original constitution was drafted toward the end of the Second Rosen Civil War in 1982. It was based upon the previous Socialist Party constitution and new works from notable socialists and communists such as Jorge Almeida and Hatsue Yuhara.
@@ -170,7 +175,7 @@ Afterward, I will then categorize and characterize each ethnic group making up t
 - Feveiks - Feveiks are usually characterized by their relative wealth and very low birth rates, as shown by their decline in population since the establishment of the Commonwealth. Feveiks, similar to Sennans, put great emphasis on marriage, but not on birth.
     
 - Veytuans - In the wake of the Veytuan War, many have migrated from the island to the Rosen Commonwealth, where they seek equality and freedom. Veytuans are characterized by their optimism and large families. 
-    
+
 # 5: A Sample Headline List From 2053
 ## 5.1: Introduction
 Life in the Rosen Commonwealth is pretty uneventful. Economic equality has brought crime down, weakened large corporations, and made life more fulfilling and prosperous for the average Rosen. As such, headlines are much less sensational and mundane than headlines in other capitalist countries. 
