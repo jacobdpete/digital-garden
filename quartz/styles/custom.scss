@@ -80,7 +80,7 @@ article p, article li {
   max-width: 800px;    /* Shrunk down to perfectly hug the text column */
   width: 92vw;         
   margin: 3rem auto; 
-  padding: 2rem 2.5rem; /* Reduced padding (top/bottom, left/right) so it breathes but doesn't drown */
+  padding: 2rem 80%; /* Reduced padding (top/bottom, left/right) so it breathes but doesn't drown */
   border-radius: 12px; 
   border: 1px solid #a0a0a0; 
 }
