@@ -57,6 +57,17 @@ article p, article li {
   color: var(--secondary);
 }
 
+/* THE FIX: Force the ToC to actually hide when collapsed */
+#toc-content {
+  max-height: 5000px; 
+  overflow: hidden;
+  transition: max-height 0.4s ease-in-out; /* Adds a smooth slide-down animation */
+}
+
+#toc-content.collapsed {
+  max-height: 0 !important; /* Forces it to disappear when retracted */
+}
+
 /* --- The MillMint Box Layout (The Smart Way) --- */
 
 /* 1. Make the extreme left/right sides pitch black */
@@ -70,12 +81,12 @@ article p, article li {
 /* 2. Turn the center text column directly into our box */
 .center {
   background-color: var(--light); 
-  padding: 3rem !important;      /* Thick, clean padding inside the box */
-  margin-top: 2rem !important;   /* Floats the box off the top of the browser */
+  padding: 3rem !important;      
+  margin-top: 2rem !important;   
   margin-bottom: 2rem !important; 
   border-radius: 8px; 
-  border: 1px solid #a0a0a0;     /* Sharp light-mode outline, no shadow */
-  max-width: 800px !important;   /* Ensures it stays a readable width */
+  border: 1px solid #a0a0a0;     
+  max-width: 800px !important;   
 }
 
 /* 3. Force the box to stand out in dark mode */
