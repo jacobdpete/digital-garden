@@ -14,3 +14,52 @@ article p, article li {
 .page-title a {
   font-size: 1.25rem !important; 
 }
+
+/* --- Fix the Table of Contents Layout --- */
+.toc {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+/* 1. Strip the grey box off the title */
+#toc-button {
+  background-color: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+#toc-button h3 {
+  font-size: 1.2rem;
+  margin: 0;
+  color: var(--dark);
+}
+
+/* 2. Remove the big bullets and make the list clean */
+#toc-content ul {
+  list-style: none !important;
+  padding-left: 0;
+  margin-top: 0.5rem;
+}
+
+#toc-content > ul {
+  border-left: 2px solid var(--lightgray); /* Adds the subtle line on the left */
+}
+
+#toc-content li {
+  margin-left: 1rem;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+}
+
+#toc-content a {
+  color: var(--gray);
+  text-decoration: none;
+}
+
+#toc-content a:hover {
+  color: var(--secondary);
+}
