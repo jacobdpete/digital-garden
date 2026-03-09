@@ -4,7 +4,7 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [Component.Search(), Component.Darkmode()],
+  header: [Component.PageTitle(), Component.Search(), Component.Darkmode()],
   afterBody: [],
   footer: Component.Footer({
     links: {
@@ -19,8 +19,8 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
-    Component.TableOfContents(),
-    Component.ContentMeta(),
+    Component.ContentMeta(),      // <-- Moved this back up!
+    Component.TableOfContents(),  // <-- So it sits below the date
     Component.TagList(),
   ],
   left: [],

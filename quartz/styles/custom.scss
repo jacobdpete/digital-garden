@@ -63,3 +63,47 @@ article p, article li {
 #toc-content a:hover {
   color: var(--secondary);
 }
+
+/* --- The MillMint Box Layout --- */
+
+/* 1. Make the extreme left/right sides pitch black */
+[saved-theme="dark"] body {
+  background-color: #000000; 
+}
+[saved-theme="light"] body {
+  background-color: #dcdcdc; /* A nice neutral gray for light mode */
+}
+
+/* 2. Build the central floating box */
+.page {
+  background-color: var(--light); /* Uses your theme's dark gray */
+  max-width: 850px;               /* Keeps text at a readable width */
+  margin: 3rem auto;              /* Centers the box with breathing room on top/bottom */
+  padding: 3rem 4rem;             /* Adds internal padding inside the box */
+  border-radius: 12px;            /* Smooth corners */
+  border: 1px solid var(--lightgray); /* Subtle border like MillMint */
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5); /* Makes the box "float" */
+}
+
+/* 3. Layout the Header (Title left, Search right) */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+  width: 100%;
+}
+
+header .page-title {
+  margin: 0;
+}
+
+/* 4. Make it snap to full screen on mobile phones */
+@media all and (max-width: 800px) {
+  .page {
+    margin: 0;
+    border-radius: 0;
+    border: none;
+    padding: 1.5rem;
+  }
+}
