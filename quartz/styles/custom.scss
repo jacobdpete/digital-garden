@@ -16,7 +16,8 @@ article p, article li {
   margin-bottom: 1.5rem;
 }
 
-#toc-button {
+/* 1. Strip the grey box off the title */
+#toc-button, #toc {
   background-color: transparent !important;
   border: none !important;
   padding: 0 !important;
@@ -26,12 +27,13 @@ article p, article li {
   gap: 0.5rem;
 }
 
-#toc-button h3 {
+#toc-button h3, #toc h3 {
   font-size: 1.2rem;
   margin: 0;
   color: var(--dark);
 }
 
+/* 2. Style the clean list */
 #toc-content ul {
   list-style: none !important;
   padding-left: 0;
@@ -57,15 +59,30 @@ article p, article li {
   color: var(--secondary);
 }
 
-/* THE FIX: Force the ToC to actually hide when collapsed */
+/* 3. THE MAGIC TOGGLE FIX (Inverted Logic) */
+
+/* Base state: Forces the ToC to start completely hidden */
 #toc-content {
-  max-height: 5000px; 
-  overflow: hidden;
-  transition: max-height 0.4s ease-in-out; /* Adds a smooth slide-down animation */
+  max-height: 0 !important;
+  overflow: hidden !important;
+  opacity: 0 !important;
+  transition: max-height 0.4s ease-in-out, opacity 0.4s ease-in-out;
 }
 
+/* Clicked state: When Quartz's JS adds the 'collapsed' class, we actually EXPAND it */
 #toc-content.collapsed {
-  max-height: 0 !important; /* Forces it to disappear when retracted */
+  max-height: 5000px !important;
+  opacity: 1 !important;
+}
+
+/* 4. Fix the Arrow Rotation so it matches our inverted logic */
+#toc-button .fold, #toc .fold {
+  transform: rotate(-90deg) !important; /* Points right when closed */
+  transition: transform 0.3s ease-in-out;
+}
+
+#toc-button.collapsed .fold, #toc.collapsed .fold {
+  transform: rotate(0deg) !important; /* Points down when open */
 }
 
 /* --- The MillMint Box Layout (The Smart Way) --- */
