@@ -77,15 +77,24 @@ article p, article li {
 /* 2. Build the central floating box */
 .page {
   background-color: var(--light); 
-  max-width: 1000px;   /* Significantly wider box */
-  width: 92vw;         /* Ensures a consistent black border on the sides across all screen sizes */
+  max-width: 800px;    /* Shrunk down to perfectly hug the text column */
+  width: 92vw;         
   margin: 3rem auto; 
-  padding: 3rem;       /* Even, comfortable padding so the text isn't squished */
+  padding: 2rem 2.5rem; /* Reduced padding (top/bottom, left/right) so it breathes but doesn't drown */
   border-radius: 12px; 
-  border: 1px solid #a0a0a0; /* A crisp, defined outline for light mode */
-  /* Box shadow removed completely! */
+  border: 1px solid #a0a0a0; 
 }
 
+/* --- Mobile Layout Rules --- */
+@media all and (max-width: 800px) {
+  .page {
+    width: 100%;          
+    margin: 0;            
+    border-radius: 0;     
+    border: none;         
+    padding: 1.5rem 1rem; /* Much tighter padding so mobile text actually fits on the screen */
+  }
+}
 /* Force the box to stand out in dark mode */
 [saved-theme="dark"] .page {
   background-color: #161618; /* A sleek, deep dark gray */
@@ -103,15 +112,4 @@ header {
 
 header .page-title {
   margin: 0;
-}
-
-/* --- Mobile Layout Rules --- */
-@media all and (max-width: 800px) {
-  .page {
-    width: 100%;          /* Forces the box to touch the edges on mobile */
-    margin: 0;            /* Removes the outside margins */
-    border-radius: 0;     /* Removes the rounded corners */
-    border: none;         /* Removes the border line */
-    padding: 1.5rem;      /* Gives a comfortable, even padding for mobile text */
-  }
 }
