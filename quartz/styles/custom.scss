@@ -69,29 +69,29 @@ article p, article li {
   background-color: #dcdcdc; 
 }
 
-/* 2. Build the central floating box and DESTROY the grid */
+/* 2. Build the central floating box */
 .page {
   background-color: var(--light); 
-  max-width: 800px !important;    
+  max-width: 850px !important;    
   margin: 2rem auto !important; 
-  padding: 2.5rem !important; 
+  padding: 2.5rem 3.5rem !important; /* Thick padding on the sides, clean on top/bottom */
   border-radius: 8px; 
   border: 1px solid #a0a0a0; 
-  /* This completely overrides Quartz's 3-column desktop grid */
   display: flex !important; 
   flex-direction: column !important; 
 }
 
-/* 3. Completely hide the empty sidebars that are squishing the text */
+/* 3. Completely hide the empty sidebars */
 .sidebar {
   display: none !important;
 }
 
-/* 4. Ensure the internal content stretches to fill our new box */
-.center {
+/* 4. THE FIX: Force text edge-to-edge and kill the massive top gap */
+.center, article, .popover-hint {
   width: 100% !important;
   max-width: 100% !important;
   margin: 0 !important;
+  padding-top: 0 !important; /* Eradicates Quartz's default top-spacing */
 }
 
 /* 5. Force the box to stand out in dark mode */
@@ -105,7 +105,8 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 2rem;
+  margin-top: 0 !important;
+  margin-bottom: 2rem !important;
   width: 100%;
 }
 
