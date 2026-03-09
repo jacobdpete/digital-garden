@@ -14,83 +14,77 @@ article p, article li {
 .toc {
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
+  text-align: left; /* Forces it perfectly inline on the left */
+  display: block !important;
 }
 
-/* 1. Strip the grey box off the title */
-html body .page .toc #toc-button, 
-html body .page .toc {
+/* Clean up the button */
+.toc #toc-button {
   background-color: transparent !important;
   border: none !important;
   padding: 0 !important;
   cursor: pointer;
-  display: flex;
+  display: inline-flex !important; /* Keeps just the arrow and text together */
   align-items: center;
   gap: 0.5rem;
 }
 
-html body .page .toc #toc-button h3, 
-html body .page .toc h3 {
+.toc #toc-button h3 {
   font-size: 1.2rem;
   margin: 0;
   color: var(--dark);
 }
 
-/* 2. Style the clean list */
-html body .page .toc #toc-content ul {
+/* Style the list */
+.toc #toc-content ul {
   list-style: none !important;
   padding-left: 0;
   margin-top: 0.5rem;
 }
 
-html body .page .toc #toc-content > ul {
+.toc #toc-content > ul {
   border-left: 2px solid var(--lightgray); 
 }
 
-html body .page .toc #toc-content li {
+.toc #toc-content li {
   margin-left: 1rem;
   padding-top: 0.2rem;
   padding-bottom: 0.2rem;
 }
 
-html body .page .toc #toc-content a {
+.toc #toc-content a {
   color: var(--gray);
   text-decoration: none;
 }
 
-html body .page .toc #toc-content a:hover {
+.toc #toc-content a:hover {
   color: var(--secondary);
 }
 
-/* 3. THE MAGIC TOGGLE FIX (Nuclear Specificity) */
-
-/* Base state: Forces the ToC to start completely hidden */
-html body .page .toc #toc-content {
+/* --- THE REAL TOGGLE FIX --- */
+/* Base state: Starts closed with arrow pointing right */
+.toc #toc-content {
   max-height: 0 !important;
   overflow: hidden !important;
   opacity: 0 !important;
-  visibility: hidden !important; /* Physically removes it so you can't click invisible links */
+  visibility: hidden !important;
   transition: max-height 0.4s ease-in-out, opacity 0.4s ease-in-out, visibility 0.4s;
 }
 
-/* Clicked state: EXPAND (Beats Quartz's media queries) */
-html body .page .toc #toc-content.collapsed,
-html body .page .toc.collapsed #toc-content {
-  max-height: 5000px !important;
-  opacity: 1 !important;
-  visibility: visible !important;
-  margin-bottom: 2rem !important;
-}
-
-/* 4. Fix the Arrow Rotation */
-html body .page .toc #toc-button .fold, 
-html body .page .toc .fold {
-  transform: rotate(-90deg) !important; /* Points right when closed */
+.toc #toc-button .fold {
+  transform: rotate(-90deg) !important; 
   transition: transform 0.3s ease-in-out;
 }
 
-html body .page .toc #toc-button.collapsed .fold, 
-html body .page .toc.collapsed .fold {
-  transform: rotate(0deg) !important; /* Points down when open */
+/* Clicked state: .collapsed is added to the .toc wrapper, we use it to OPEN */
+.toc.collapsed #toc-content {
+  max-height: 5000px !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+.toc.collapsed #toc-button .fold {
+  transform: rotate(0deg) !important; /* Points down */
 }
 
 /* --- The MillMint Box Layout (The Smart Way) --- */
