@@ -70,17 +70,25 @@ header .page-title {
   padding-left: 12px !important; /* This keeps the icon from touching the wall */
 }
 
-/* 7. Force True Horizontal Centering */
+/* --- Nuke the 3-Column Grid and Force True Centering --- */
 .page {
   display: flex !important;
-  justify-content: center !important;
+  flex-direction: column !important; 
+  align-items: center !important;    
   width: 100% !important;
+  max-width: 100vw !important;
 }
 
-/* Ensure the wrapper doesn't have a hardcoded left margin */
+/* Physically collapse the ghost columns so they take up 0 pixels */
+.left.sidebar,
+.right.sidebar {
+  display: none !important; 
+}
+
+/* Ensure the center box margins don't fight the flexbox */
 .center {
-  margin-left: auto !important;
-  margin-right: auto !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
 }
 
 @media all and (max-width: 800px) {
