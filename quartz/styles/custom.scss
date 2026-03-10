@@ -49,8 +49,11 @@ header {
   width: 100%;
 }
 
-/* 5. Nuke ALL phantom top margins inside the box */
-.page, 
+/* 5. Nuke phantom margins inside, but float the master page */
+.page {
+  padding-top: 2rem !important; /* Restores the space above your box */
+}
+
 .page-header, 
 .search {
   margin-top: 0 !important;
