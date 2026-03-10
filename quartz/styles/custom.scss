@@ -21,7 +21,7 @@ article p, article li {
 /* 2. Turn the center text column directly into our box */
 .center {
   background-color: var(--light); 
-  padding-top: 1rem !important; /* Let's start from absolute zero */
+  padding-top: 20px !important; /* Let's start from absolute zero */
   padding-right: 3rem !important;
   padding-bottom: 1rem !important;
   padding-left: 3rem !important;
