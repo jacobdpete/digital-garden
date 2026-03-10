@@ -159,18 +159,19 @@ header .page-title {
   border: 1px solid #333;
 }
 
-/* 3. Bottom Row: The Links (Shrunk to one line) */
+/* 3. Bottom Row: The Links (Shrunk and evenly spaced) */
 .sub-tier {
   display: flex;
-  flex-wrap: nowrap; /* Forces a single line */
-  gap: 0.7rem;       /* Tighter spacing between items */
+  flex-wrap: nowrap; 
+  justify-content: space-between; /* This forces the items to fill the whole box evenly */
+  gap: 0.5rem;       /* A small gap just in case the screen gets really small */
   list-style: none !important;
   padding: 0;
   margin: 0;
-  font-size: 0.8rem; /* Shrunk font size */
+  font-size: 0.8rem; 
   font-weight: 500;
-  overflow-x: auto;  /* Allows horizontal swipe on tiny mobile screens */
-  scrollbar-width: none; /* Hides the scrollbar if it triggers */
+  overflow-x: auto;  
+  scrollbar-width: none; 
 }
 
 .sub-tier::-webkit-scrollbar {
