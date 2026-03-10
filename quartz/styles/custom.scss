@@ -64,6 +64,12 @@ header .page-title {
   margin-right: auto !important; 
 }
 
+.search-button {
+  width: 200px !important;
+  justify-content: flex-start !important;
+  padding-left: 12px !important; /* This keeps the icon from touching the wall */
+}
+
 @media all and (max-width: 800px) {
   .center {
     margin: 0 !important;            
