@@ -70,6 +70,19 @@ header .page-title {
   padding-left: 12px !important; /* This keeps the icon from touching the wall */
 }
 
+/* 7. Force True Horizontal Centering */
+.page {
+  display: flex !important;
+  justify-content: center !important;
+  width: 100% !important;
+}
+
+/* Ensure the wrapper doesn't have a hardcoded left margin */
+.center {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
 @media all and (max-width: 800px) {
   .center {
     margin: 0 !important;            
