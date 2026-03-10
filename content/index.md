@@ -13,4 +13,7 @@ The Rosen Commonwealth is set in our solar system in the near future, on a plane
 The Rosen Commonwealth's defining moment was the [[Nuclear Crisis]] - when the Commonwealth's first political iteration exchanged nuclear arms in 1989 with its ideological rivals around the world.
 
 Happy reading!
+
 Jacob Petersen
+
+TEST
