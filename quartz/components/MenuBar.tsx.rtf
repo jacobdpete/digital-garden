@@ -1,0 +1,42 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2868
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 import \{ QuartzComponent, QuartzComponentConstructor, QuartzComponentProps \} from "./types"\
+import \{ classNames \} from "../util/lang"\
+\
+const MenuBar: QuartzComponent = (\{ fileData, displayClass \}: QuartzComponentProps) => \{\
+  // Simple logic to highlight the active tab\
+  const slug = fileData.slug\
+  const isHome = slug === "index"\
+  const isWiki = slug !== "index" // Highlights 'Wiki' on every page except the home page\
+\
+  return (\
+    <nav class=\{classNames(displayClass, "menu-bar")\}>\
+      \{/* Top Row: Main Tabs */\}\
+      <ul class="top-tier">\
+        <li><a href="/" class=\{isHome ? "active" : ""\}>\uc0\u55356 \u57312  Home</a></li>\
+        <li><a href="/Wiki" class=\{isWiki ? "active" : ""\}>\uc0\u55357 \u56538  Wiki</a></li>\
+      </ul>\
+\
+      \{/* Bottom Row: The Pill Container with Categories */\}\
+      <div class="sub-tier-container">\
+        <ul class="sub-tier">\
+          <li><a href="/Culture">\uc0\u55356 \u57261  Culture</a></li>\
+          <li><a href="/Economics-and-Technology">\uc0\u9881 \u65039  Economics & Technology</a></li>\
+          <li><a href="/History">\uc0\u55357 \u56540  History</a></li>\
+          <li><a href="/Commentary">\uc0\u55357 \u56715 \u65039  Commentary</a></li>\
+          <li><a href="/People">\uc0\u55357 \u56421  People</a></li>\
+          <li><a href="/Places">\uc0\u55357 \u56826 \u65039  Places</a></li>\
+          <li><a href="/Politics">\uc0\u55356 \u57307 \u65039  Politics</a></li>\
+          <li><a href="/States">\uc0\u55356 \u57331 \u65039  States</a></li>\
+        </ul>\
+      </div>\
+    </nav>\
+  )\
+\}\
+\
+export default (() => MenuBar) satisfies QuartzComponentConstructor}

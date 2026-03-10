@@ -96,6 +96,94 @@ header .page-title {
   display: none !important; 
 }
 
+/* --- MillMint Custom Menu Bar --- */
+.menu-bar {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  width: 100%;
+}
+
+/* 1. Top Row: The Tabs */
+.top-tier {
+  display: flex;
+  gap: 1rem;
+  list-style: none !important;
+  padding: 0;
+  margin: 0 0 1rem 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.top-tier a {
+  color: var(--gray);
+  text-decoration: none;
+  padding: 0.5rem 0.8rem;
+  border-radius: 6px 6px 0 0; 
+  border-bottom: 3px solid transparent; /* Invisible border to hold layout */
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.top-tier a:hover {
+  color: var(--dark);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+[saved-theme="dark"] .top-tier a:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+/* Active Tab State */
+.top-tier a.active {
+  color: var(--dark);
+  border-bottom: 3px solid var(--tertiary); /* The pink underline */
+  background-color: rgba(0, 0, 0, 0.03);
+}
+
+[saved-theme="dark"] .top-tier a.active {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+/* 2. Bottom Row: The Pill Container */
+.sub-tier-container {
+  background-color: rgba(0, 0, 0, 0.03);
+  padding: 0.6rem 1rem;
+  border-radius: 8px;
+  border: 1px solid var(--lightgray);
+}
+
+[saved-theme="dark"] .sub-tier-container {
+  background-color: #1e1e20; /* Slightly lighter than the background */
+  border: 1px solid #333;
+}
+
+/* 3. Bottom Row: The Links */
+.sub-tier {
+  display: flex;
+  flex-wrap: wrap; /* Wraps to next line gracefully if it runs out of space */
+  gap: 1.2rem;
+  list-style: none !important;
+  padding: 0;
+  margin: 0;
+  font-size: 0.95rem;
+  font-weight: 500;
+}
+
+.sub-tier a {
+  color: var(--gray);
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  transition: color 0.2s ease;
+}
+
+.sub-tier a:hover {
+  color: var(--tertiary);
+}
+
 @media all and (max-width: 800px) {
   .center {
     margin: 0 !important;            
