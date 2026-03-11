@@ -1,4 +1,3 @@
-# Welcome!
 This website is for a worldbuilding project centering on a country called the [[Rosen Commonwealth]]. This project is heavily inspired by Hobart Phillips' Vekllei (Link: [MillMint](https://millmint.net/)), which was the inspiration for the central country of this project - the Rosen Commonwealth. It's much higher-quality than mine and very impressive, so I would advise you check it out for a full understanding of what I try to accomplish with this project. 
 This website is made possible by Obsidian (Link: [Obsidian](https://obsidian.md/)) and Quartz 4 (Link: [Quartz](https://quartz.jzhao.xyz/)).
 # FAQ

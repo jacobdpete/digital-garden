@@ -174,22 +174,30 @@ header .page-title {
   scrollbar-width: none; 
 }
 
-.sub-tier::-webkit-scrollbar {
-  display: none; /* Hides scrollbar on Chrome/Safari */
-}
-
 .sub-tier a {
-  color: var(--darkgray); /* Brightened from var(--gray) */
+  color: var(--darkgray);
   text-decoration: none;
   display: flex;
   align-items: center;
   gap: 0.3rem;
-  transition: color 0.2s ease;
-  white-space: nowrap; /* Prevents text from wrapping under icons */
+  transition: all 0.2s ease;
+  white-space: nowrap; 
+  padding-bottom: 2px; /* Adds a tiny bit of space for the underline */
+  border-bottom: 2px solid transparent; /* Prevents text from jumping when active */
 }
 
 .sub-tier a:hover {
   color: var(--tertiary);
+}
+
+/* The Active State for the Pillbox Links */
+.sub-tier a.active {
+  color: var(--dark);
+  border-bottom: 2px solid var(--tertiary); /* The colored underline */
+}
+
+[saved-theme="dark"] .sub-tier a.active {
+  color: var(--light); /* Makes the active text pop against the dark background */
 }
 
 @media all and (max-width: 800px) {
