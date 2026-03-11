@@ -1,0 +1,3 @@
+*Painting is immensely superficial*, the Genziano thinks to himself. *My painting is superficial. Alpine lakes and towering mountains and pointed coniferous trees*. Punctuating this thought, he looks out the glass block window in the kitchen where he feels remarkably superficial, and is reminded that he does not, in fact, live by any alpine lakes, towering mountains, or pointed coniferous trees. *In fact,* the glass block seems to say back to him, *you live in a rainforest and it's about three-hundred degrees outside*.
+describe house further implement alma
+begin dialogue
