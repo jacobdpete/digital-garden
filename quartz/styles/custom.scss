@@ -223,3 +223,29 @@ header .page-title {
     max-width: 100% !important;
   }
 }
+
+/* --- 3-State Darkmode Toggle --- */
+.darkmode-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  color: var(--darkgray);
+  display: flex;
+  align-items: center;
+  transition: color 0.2s ease;
+}
+
+.darkmode-toggle:hover {
+  color: var(--tertiary);
+}
+
+/* Hide all icons by default */
+.theme-icon {
+  display: none; 
+}
+
+/* Only show the icon that matches the current active mode */
+html[data-theme-preference="light"] .light-icon { display: block; }
+html[data-theme-preference="dark"] .dark-icon { display: block; }
+html[data-theme-preference="auto"] .auto-icon { display: block; }
