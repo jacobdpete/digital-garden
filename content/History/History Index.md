@@ -1,4 +1,4 @@
-The [[Rosen Commonwealth]] has a long and storied history that stretches over 400 years. This history is filled with plenty of strange events and interesting people, as document in the following sections:
+The [[Rosen Commonwealth]] has a long and storied history that stretches over 400 years.
 ## Rosen Federal Union (1792 - 1871)
 The [[Rosen Federal Union]] was the first modern independent state to take form in East Aya, and was the first iteration of several states that unified various new ethnic groups under the umbrella term of "Rosen."
 The RFU had autocratic tendencies and increasing repression and discontent over anti-federalist attitudes led to the First Rosen Civil War.
