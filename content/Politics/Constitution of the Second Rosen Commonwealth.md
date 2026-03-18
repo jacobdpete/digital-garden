@@ -1,5 +1,5 @@
 >[!Summary]
->The original Constitution was drafted toward the end of the [[Second Rosen Civil War]] in 1982. It was based upon the previous [[Socialist Party]] manifesto and new works from notable socialists and communists such as Jorge Almeida and Hatsue Yuhara.
+>The original Constitution was drafted toward the end of the [[Second Rosen Civil War]] in 1982. It was based upon the previous [[Socialist Party]] manifesto and new works from notable socialists and communists such as [[Jorge Almeida]] and [[Hatsue Yuhara]].
 >The Second Constitution was drafted by the Executive Committee of the [[Transitory Commonwealth]] in order to rectify issues that plagued the [[First Rosen Commonwealth|First Commonwealth]], like autocracy, bureaucracy, and the failure of state-acquired corporations.
 >The constitution defines the overall structure of the [[Rosen Commonwealth|Rosen Commonwealth's]] government, and guarantees fundamental human rights and protections to the Commonwealth's citizens. While the Second Constitution does not overtly claim an ideology it identifies with, it leans toward democratic socialist ideas, particularly the [[Almeidaism|Almeidaist]] line of thought. 
 # Background
