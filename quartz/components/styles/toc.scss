@@ -68,3 +68,55 @@
     }
   }
 }
+
+/* --- Obsidian-Style Nested ToC Overrides --- */
+
+.toc-content {
+  list-style: none !important;
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+}
+
+/* Kill the default bullet points */
+.toc-content li {
+  list-style-type: none !important;
+  padding-bottom: 0.2rem !important;
+}
+
+.toc-content li::before {
+  display: none !important; 
+}
+
+/* Top Level (Usually H1/H2 in Quartz) */
+.toc-content .depth-0,
+.toc-content .depth-1 {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  border-left: none !important;
+}
+
+/* Indented Levels (H3, H4, H5) with connecting line */
+.toc-content .depth-2 {
+  margin-left: 0.5rem !important;
+  padding-left: 1rem !important;
+  border-left: 1px solid var(--lightgray) !important;
+}
+
+.toc-content .depth-3 {
+  margin-left: 1.5rem !important;
+  padding-left: 1rem !important;
+  border-left: 1px solid var(--lightgray) !important;
+}
+
+.toc-content .depth-4 {
+  margin-left: 2.5rem !important;
+  padding-left: 1rem !important;
+  border-left: 1px solid var(--lightgray) !important;
+}
+
+/* Dark Mode Line Colors */
+[saved-theme="dark"] .toc-content .depth-2,
+[saved-theme="dark"] .toc-content .depth-3,
+[saved-theme="dark"] .toc-content .depth-4 {
+  border-left-color: #444444 !important;
+}
