@@ -1,0 +1,397 @@
+{
+  "schema": "0.2",
+  "settings": {
+    "enabledLanguages": [
+      "LATIN"
+    ],
+    "dailyWritingGoal": 500,
+    "startOfTheWeek": "SUNDAY",
+    "heatmapNavigation": true,
+    "heatmapConfig": {
+      "roundCells": true,
+      "hideMonthLabels": false,
+      "hideWeekdayLabels": false,
+      "intensityMode": "gradual",
+      "intensityStops": {
+        "low": 100,
+        "medium": 500,
+        "high": 1000
+      },
+      "colors": {
+        "light": {
+          "0": "#e0e0e0",
+          "1": "#9be9a8",
+          "2": "#6ad286",
+          "3": "#2ebd54",
+          "4": "#12a53e"
+        },
+        "dark": {
+          "0": "#ebedf015",
+          "1": "#0e4429",
+          "2": "#006d32",
+          "3": "#26a641",
+          "4": "#39d353"
+        }
+      }
+    },
+    "sidebarConfig": {
+      "visibility": {
+        "showSlots": true,
+        "showEntries": true,
+        "showHeatmap": true
+      },
+      "slots": [
+        {
+          "index": 0,
+          "option": "CURRENT_DAY",
+          "unit": "WORD",
+          "calc": "TOTAL"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "currentStreak": 0,
+    "highestStreak": 0,
+    "highestStreakStartDate": "",
+    "highestStreakEndDate": "",
+    "daysWithCompletedGoal": [
+      "2026-03-23"
+    ],
+    "dailyActivity": [
+      {
+        "date": "2026-03-18",
+        "filePath": "Notes and Commentary/Notes on Pacifism and Utopia in the Rosen Commonwealth.md",
+        "wordCountStart": 581,
+        "charCountStart": 3562,
+        "changes": [],
+        "id": 1
+      },
+      {
+        "date": "2026-03-18",
+        "filePath": "Notes and Commentary/Notes on Labor, Work, and Economics in the Rosen Commonwealth.md",
+        "wordCountStart": 1615,
+        "charCountStart": 10673,
+        "changes": [],
+        "id": 2
+      },
+      {
+        "date": "2026-03-18",
+        "filePath": "People/Jorge Almeida.md",
+        "wordCountStart": 403,
+        "charCountStart": 2713,
+        "changes": [],
+        "id": 3
+      },
+      {
+        "date": "2026-03-18",
+        "filePath": "People/Hatsue Yuhara.md",
+        "wordCountStart": 243,
+        "charCountStart": 1674,
+        "changes": [
+          {
+            "timeKey": "19:20",
+            "w": 91,
+            "c": 598
+          },
+          {
+            "timeKey": "19:25",
+            "w": 37,
+            "c": 199
+          }
+        ],
+        "id": 4
+      },
+      {
+        "date": "2026-03-18",
+        "filePath": "XDevelopment/Things to expand upon.md",
+        "wordCountStart": 46,
+        "charCountStart": 817,
+        "changes": [],
+        "id": 5
+      },
+      {
+        "date": "2026-03-18",
+        "filePath": "Politics/Nova Sociedade.md",
+        "wordCountStart": 116,
+        "charCountStart": 747,
+        "changes": [],
+        "id": 6
+      },
+      {
+        "date": "2026-03-18",
+        "filePath": "Politics/List of Secretary-Generals of the Rosen Commonwealth.md",
+        "wordCountStart": 620,
+        "charCountStart": 4516,
+        "changes": [],
+        "id": 7
+      },
+      {
+        "date": "2026-03-18",
+        "filePath": "History/Timeline of Rosen History.md",
+        "wordCountStart": 75,
+        "charCountStart": 452,
+        "changes": [],
+        "id": 8
+      },
+      {
+        "date": "2026-03-18",
+        "filePath": "States/States (Present)/Rosen Commonwealth.md",
+        "wordCountStart": 6204,
+        "charCountStart": 46158,
+        "changes": [],
+        "id": 9
+      },
+      {
+        "date": "2026-03-18",
+        "filePath": "Politics/Constitution of the Second Rosen Commonwealth.md",
+        "wordCountStart": 2048,
+        "charCountStart": 14100,
+        "changes": [],
+        "id": 10
+      },
+      {
+        "date": "2026-03-18",
+        "filePath": "Politics/Secretariat-Directory.md",
+        "wordCountStart": 1585,
+        "charCountStart": 14409,
+        "changes": [],
+        "id": 11
+      },
+      {
+        "date": "2026-03-19",
+        "filePath": "Politics/Secretariat-Directory.md",
+        "wordCountStart": 1585,
+        "charCountStart": 14409,
+        "changes": [],
+        "id": 12
+      },
+      {
+        "date": "2026-03-19",
+        "filePath": "People/Hatsue Yuhara.md",
+        "wordCountStart": 371,
+        "charCountStart": 2471,
+        "changes": [],
+        "id": 13
+      },
+      {
+        "date": "2026-03-19",
+        "filePath": "States/States (Present)/Rosen Commonwealth.md",
+        "wordCountStart": 6204,
+        "charCountStart": 46158,
+        "changes": [],
+        "id": 14
+      },
+      {
+        "date": "2026-03-19",
+        "filePath": "Politics/Constitution of the Second Rosen Commonwealth.md",
+        "wordCountStart": 2048,
+        "charCountStart": 14100,
+        "changes": [],
+        "id": 15
+      },
+      {
+        "date": "2026-03-19",
+        "filePath": "Economics and Technology/ROCARA.md",
+        "wordCountStart": 53,
+        "charCountStart": 391,
+        "changes": [],
+        "id": 16
+      },
+      {
+        "date": "2026-03-19",
+        "filePath": "Economics and Technology/Housing and Urban Development in the Rosen Commonwealth.md",
+        "wordCountStart": 749,
+        "charCountStart": 5114,
+        "changes": [],
+        "id": 17
+      },
+      {
+        "date": "2026-03-19",
+        "filePath": "Economics and Technology/HOSMAX.md",
+        "wordCountStart": 101,
+        "charCountStart": 700,
+        "changes": [],
+        "id": 18
+      },
+      {
+        "date": "2026-03-19",
+        "filePath": "Economics and Technology/Economy of the Rosen Commonwealth.md",
+        "wordCountStart": 791,
+        "charCountStart": 5361,
+        "changes": [],
+        "id": 19
+      },
+      {
+        "date": "2026-03-19",
+        "filePath": "Economics and Technology/Economics and Technology Index.md",
+        "wordCountStart": 285,
+        "charCountStart": 2043,
+        "changes": [],
+        "id": 20
+      },
+      {
+        "date": "2026-03-21",
+        "filePath": "Economics and Technology/Economics and Technology Index.md",
+        "wordCountStart": 285,
+        "charCountStart": 2043,
+        "changes": [],
+        "id": 21
+      },
+      {
+        "date": "2026-03-23",
+        "filePath": "Economics and Technology/Economics and Technology Index.md",
+        "wordCountStart": 285,
+        "charCountStart": 2043,
+        "changes": [],
+        "id": 22
+      },
+      {
+        "date": "2026-03-23",
+        "filePath": "People/Hatsue Yuhara.md",
+        "wordCountStart": 371,
+        "charCountStart": 2471,
+        "changes": [],
+        "id": 23
+      },
+      {
+        "date": "2026-03-23",
+        "filePath": "XDevelopment/notes.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:05",
+            "w": 1620,
+            "c": 11329
+          }
+        ],
+        "id": 24
+      },
+      {
+        "date": "2026-03-23",
+        "filePath": "States/States (Present)/Rosen Commonwealth.md",
+        "wordCountStart": 6204,
+        "charCountStart": 46158,
+        "changes": [
+          {
+            "timeKey": "19:10",
+            "w": 44,
+            "c": 296
+          },
+          {
+            "timeKey": "19:15",
+            "w": 72,
+            "c": 481
+          },
+          {
+            "timeKey": "19:20",
+            "w": 10,
+            "c": 85
+          },
+          {
+            "timeKey": "19:25",
+            "w": 31,
+            "c": 194
+          },
+          {
+            "timeKey": "20:25",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 25
+      },
+      {
+        "date": "2026-03-23",
+        "filePath": "Notes and Commentary/Notes and References.md",
+        "wordCountStart": 3477,
+        "charCountStart": 23573,
+        "changes": [],
+        "id": 26
+      },
+      {
+        "date": "2026-03-23",
+        "filePath": "Places/Places (Other)/Libertas Lunar Base.md",
+        "wordCountStart": 84,
+        "charCountStart": 550,
+        "changes": [],
+        "id": 27
+      },
+      {
+        "date": "2026-03-23",
+        "filePath": "Politics/Almeidaism.md",
+        "wordCountStart": 58,
+        "charCountStart": 405,
+        "changes": [
+          {
+            "timeKey": "16:05",
+            "w": 48,
+            "c": 277
+          },
+          {
+            "timeKey": "16:10",
+            "w": 2,
+            "c": 24
+          },
+          {
+            "timeKey": "20:20",
+            "w": 103,
+            "c": 696
+          },
+          {
+            "timeKey": "20:25",
+            "w": 40,
+            "c": 294
+          },
+          {
+            "timeKey": "20:30",
+            "w": 97,
+            "c": 702
+          },
+          {
+            "timeKey": "20:35",
+            "w": 90,
+            "c": 571
+          },
+          {
+            "timeKey": "20:40",
+            "w": 81,
+            "c": 487
+          },
+          {
+            "timeKey": "20:45",
+            "w": 90,
+            "c": 639
+          },
+          {
+            "timeKey": "20:55",
+            "w": -2,
+            "c": -7
+          },
+          {
+            "timeKey": "21:00",
+            "w": 42,
+            "c": 322
+          },
+          {
+            "timeKey": "21:05",
+            "w": 24,
+            "c": 248
+          }
+        ],
+        "id": 28
+      },
+      {
+        "date": "2026-03-25",
+        "filePath": "Politics/Almeidaism.md",
+        "wordCountStart": 673,
+        "charCountStart": 4658,
+        "changes": [],
+        "id": 29
+      }
+    ],
+    "wholeVaultWordCount": 35682,
+    "wholeVaultCharCount": 249582
+  }
+}
